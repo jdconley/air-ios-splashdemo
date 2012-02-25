@@ -1,0 +1,5 @@
+This is just a little demo to show how the splash screens work in AIR for iOS. In addition to splash screens it shows how to support both landscape orientations but not allow portrait orientations. It also handles a bug where the stage size is not correct until a few frames later when a RESIZE event fires.
+
+You can build this project and run it on your iPhone or iPad.
+
+It also shows a bug in the initialization process when you use a native extension and set the orientation to landscape in the app.xml file. Discussion is on the Adobe forums here: http://forums.adobe.com/message/4229306#4229306
