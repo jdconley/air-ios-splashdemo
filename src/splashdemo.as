@@ -1,14 +1,8 @@
 package
 {
-	import com.adobe.nativeExtensions.AppPurchase;
-	import com.adobe.nativeExtensions.AppPurchaseEvent;
-	
 	import flash.debugger.enterDebugger;
-	import flash.desktop.NativeApplication;
-	import flash.desktop.SystemIdleMode;
 	import flash.display.Sprite;
 	import flash.display.StageAlign;
-	import flash.display.StageDisplayState;
 	import flash.display.StageOrientation;
 	import flash.display.StageScaleMode;
 	import flash.events.Event;
@@ -16,7 +10,6 @@ package
 	import flash.text.TextField;
 	import flash.text.TextFieldAutoSize;
 	import flash.text.TextFieldType;
-	import flash.text.TextFormat;
 	
 	public class splashdemo extends Sprite
 	{
