@@ -7,7 +7,7 @@
 	<initialWindow>
 		<content>[This value will be overwritten by Flash Builder in the output app.xml]</content>
 		<visible>true</visible>
-<!--         <aspectRatio>landscape</aspectRatio> -->
+        <aspectRatio>landscape</aspectRatio>
         <autoOrients>true</autoOrients>
         <fullScreen>true</fullScreen>
         <renderMode>cpu</renderMode>
